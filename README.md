@@ -1,3 +1,3 @@
 # firstrepo
- what is the purpose of repo 
+ what is the purpose of Repo 
  
